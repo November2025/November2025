@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Amanda Wilson
-- 👀 I’m interested in learning all new things
-- 🌱 I’m currently learning beginner code and dev
-- 💞️ I’m looking to collaborate on iOS and python
+- 👀 I’m interested in learning everything! 
+- 🌱 I love JavaScript and interested in Python
+- 💞️ Always up to network & avid cat enthusiast! 🐈
 - 📫 How to reach me 606-687-8417 amanda88715@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have tons of houseplants ;)
+- ⚡ Fun fact: 🪴I have tons of houseplants🪴 ;)
 
 <!---
 November2025/November2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
