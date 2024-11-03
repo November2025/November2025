@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning everything! 
 - 🌱 I love JavaScript and interested in Python
 - 💞️ Always up to network & avid cat enthusiast! 🐈
-- 📫 How to reach me 606-687-8417 amanda88715@gmail.com
+- 📫 How to reach me slack @Amanda
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 🪴I have tons of houseplants🪴 ;)
 
